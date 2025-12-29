@@ -1,0 +1,113 @@
+"Model","AIC"
+"PVE1 ~ SegID + Age",-15689.2601588421
+"PVE1 ~ SegID + Sex + Age",-15685.0298764939
+"PVE1 ~ ParticipantType + SegID + Age",-15680.0028392989
+"PVE1 ~ SegID",-15677.1722899063
+"PVE1 ~ ParticipantType + SegID + Sex + Age",-15675.5941115068
+"PVE1 ~ SegID + Sex + Age + Sex:Age",-15675.3504899406
+"PVE1 ~ ParticipantType + SegID",-15672.045625242
+"PVE1 ~ SegID + Sex",-15671.8438541858
+"PVE1 ~ ParticipantType + SegID + Sex",-15668.3585432373
+"PVE1 ~ ParticipantType + SegID + Age + ParticipantType:Age",-15667.8455907928
+"PVE1 ~ ParticipantType + SegID + Sex + Age + ParticipantType:Sex",-15667.5698203747
+"PVE1 ~ ParticipantType + SegID + Sex + Age + Sex:Age",-15665.9226956204
+"PVE1 ~ ParticipantType + SegID + Sex + Age + ParticipantType:Age",-15662.2270355814
+"PVE1 ~ ParticipantType + SegID + Sex + ParticipantType:Sex",-15661.0703782705
+"PVE1 ~ ParticipantType + SegID + Sex + Age + ParticipantType:Sex +      Sex:Age",-15660.6508893036
+"PVE1 ~ ParticipantType + SegID + Sex + Age + ParticipantType:Sex +      ParticipantType:Age",-15655.3059091447
+"PVE1 ~ ParticipantType + SegID + Sex + Age + ParticipantType:Age +      Sex:Age",-15652.0028709794
+"PVE1 ~ ParticipantType + SegID + Sex + Age + ParticipantType:Sex +      ParticipantType:Age + Sex:Age",-15651.1992154946
+"PVE1 ~ SegID + Sex + Age + SegID:Sex",-15232.8265403027
+"PVE1 ~ ParticipantType + SegID + Sex + Age + SegID:Sex",-15223.3882025925
+"PVE1 ~ SegID + Sex + Age + SegID:Sex + Sex:Age",-15223.2175393132
+"PVE1 ~ SegID + Sex + SegID:Sex",-15219.6177675521
+"PVE1 ~ ParticipantType + SegID + Sex + SegID:Sex",-15216.0892318671
+"PVE1 ~ ParticipantType + SegID + Sex + Age + ParticipantType:Sex +      SegID:Sex",-15215.3566907521
+"PVE1 ~ ParticipantType + SegID + Sex + Age + SegID:Sex + Sex:Age",-15213.7796058263
+"PVE1 ~ ParticipantType + SegID + Sex + Age + ParticipantType:Age +      SegID:Sex",-15210.0619595619
+"PVE1 ~ ParticipantType + SegID + Sex + ParticipantType:Sex +      SegID:Sex",-15208.824895554
+"PVE1 ~ ParticipantType + SegID + Sex + Age + ParticipantType:Sex +      SegID:Sex + Sex:Age",-15208.4381566584
+"PVE1 ~ ParticipantType + SegID + Sex + Age + ParticipantType:Sex +      ParticipantType:Age + SegID:Sex",-15203.1113020356
+"PVE1 ~ ParticipantType + SegID + Sex + Age + ParticipantType:Age +      SegID:Sex + Sex:Age",-15199.8905285824
+"PVE1 ~ ParticipantType + SegID + Sex + Age + ParticipantType:Sex +      ParticipantType:Age + SegID:Sex + Sex:Age",-15199.0214617294
+"PVE1 ~ ParticipantType + SegID + Age + ParticipantType:SegID",-15064.3732852833
+"PVE1 ~ ParticipantType + SegID + Sex + Age + ParticipantType:SegID",-15059.9374428834
+"PVE1 ~ ParticipantType + SegID + ParticipantType:SegID",-15056.4733840614
+"PVE1 ~ ParticipantType + SegID + Sex + ParticipantType:SegID",-15052.7653381281
+"PVE1 ~ ParticipantType + SegID + Age + ParticipantType:SegID +      ParticipantType:Age",-15052.1666513927
+"PVE1 ~ ParticipantType + SegID + Sex + Age + ParticipantType:SegID +      ParticipantType:Sex",-15051.9178752298
+"PVE1 ~ ParticipantType + SegID + Sex + Age + ParticipantType:SegID +      Sex:Age",-15050.2382528099
+"PVE1 ~ ParticipantType + SegID + Sex + Age + ParticipantType:SegID +      ParticipantType:Age",-15046.5364445229
+"PVE1 ~ ParticipantType + SegID + Sex + ParticipantType:SegID +      ParticipantType:Sex",-15045.4662214514
+"PVE1 ~ ParticipantType + SegID + Sex + Age + ParticipantType:SegID +      ParticipantType:Sex + Sex:Age",-15044.9998286795
+"PVE1 ~ ParticipantType + SegID + Sex + Age + ParticipantType:SegID +      ParticipantType:Sex + ParticipantType:Age",-15039.6217396874
+"PVE1 ~ ParticipantType + SegID + Sex + Age + ParticipantType:SegID +      ParticipantType:Age + Sex:Age",-15036.2920900263
+"PVE1 ~ ParticipantType + SegID + Sex + Age + ParticipantType:SegID +      ParticipantType:Sex + ParticipantType:Age + Sex:Age",-15035.4881509221
+"PVE1 ~ SegID + Age + SegID:Age",-14720.2064566478
+"PVE1 ~ SegID + Sex + Age + SegID:Age",-14715.9392731125
+"PVE1 ~ ParticipantType + SegID + Age + SegID:Age",-14710.948591904
+"PVE1 ~ ParticipantType + SegID + Sex + Age + SegID:Age",-14706.5031266174
+"PVE1 ~ SegID + Sex + Age + SegID:Age + Sex:Age",-14706.2060878321
+"PVE1 ~ ParticipantType + SegID + Age + ParticipantType:Age +      SegID:Age",-14698.748639342
+"PVE1 ~ ParticipantType + SegID + Sex + Age + ParticipantType:Sex +      SegID:Age",-14698.484469172
+"PVE1 ~ ParticipantType + SegID + Sex + Age + SegID:Age + Sex:Age",-14696.7772678768
+"PVE1 ~ ParticipantType + SegID + Sex + Age + ParticipantType:Age +      SegID:Age",-14693.1073617606
+"PVE1 ~ ParticipantType + SegID + Sex + Age + ParticipantType:Sex +      SegID:Age + Sex:Age",-14691.5621195832
+"PVE1 ~ ParticipantType + SegID + Sex + Age + ParticipantType:Sex +      ParticipantType:Age + SegID:Age",-14686.2128798929
+"PVE1 ~ ParticipantType + SegID + Sex + Age + ParticipantType:Age +      SegID:Age + Sex:Age",-14682.8362379832
+"PVE1 ~ ParticipantType + SegID + Sex + Age + ParticipantType:Sex +      ParticipantType:Age + SegID:Age + Sex:Age",-14682.0961873629
+"PVE1 ~ ParticipantType + SegID + Sex + Age + ParticipantType:SegID +      SegID:Sex",-14628.6919613735
+"PVE1 ~ ParticipantType + SegID + Sex + ParticipantType:SegID +      SegID:Sex",-14621.4637010858
+"PVE1 ~ ParticipantType + SegID + Sex + Age + ParticipantType:SegID +      ParticipantType:Sex + SegID:Sex",-14620.6653582129
+"PVE1 ~ ParticipantType + SegID + Sex + Age + ParticipantType:SegID +      SegID:Sex + Sex:Age",-14619.0514354219
+"PVE1 ~ ParticipantType + SegID + Sex + Age + ParticipantType:SegID +      ParticipantType:Age + SegID:Sex",-14615.3234474769
+"PVE1 ~ ParticipantType + SegID + Sex + ParticipantType:SegID +      ParticipantType:Sex + SegID:Sex",-14614.1850483442
+"PVE1 ~ ParticipantType + SegID + Sex + Age + ParticipantType:SegID +      ParticipantType:Sex + SegID:Sex + Sex:Age",-14613.7526070087
+"PVE1 ~ ParticipantType + SegID + Sex + Age + ParticipantType:SegID +      ParticipantType:Sex + ParticipantType:Age + SegID:Sex",-14608.3811393606
+"PVE1 ~ ParticipantType + SegID + Sex + Age + ParticipantType:SegID +      ParticipantType:Age + SegID:Sex + Sex:Age",-14605.129182261
+"PVE1 ~ ParticipantType + SegID + Sex + Age + ParticipantType:SegID +      ParticipantType:Sex + ParticipantType:Age + SegID:Sex + Sex:Age",-14604.2652636456
+"PVE1 ~ SegID + Sex + Age + SegID:Sex + SegID:Age",-14266.1156231279
+"PVE1 ~ ParticipantType + SegID + Sex + Age + SegID:Sex + SegID:Age",-14256.6769230246
+"PVE1 ~ SegID + Sex + Age + SegID:Sex + SegID:Age + Sex:Age",-14256.4524134308
+"PVE1 ~ ParticipantType + SegID + Sex + Age + ParticipantType:Sex +      SegID:Sex + SegID:Age",-14248.6502872354
+"PVE1 ~ ParticipantType + SegID + Sex + Age + SegID:Sex + SegID:Age +      Sex:Age",-14247.0132858752
+"PVE1 ~ ParticipantType + SegID + Sex + Age + ParticipantType:Age +      SegID:Sex + SegID:Age",-14243.3193291478
+"PVE1 ~ ParticipantType + SegID + Sex + Age + ParticipantType:Sex +      SegID:Sex + SegID:Age + Sex:Age",-14241.729816379
+"PVE1 ~ ParticipantType + SegID + Sex + Age + ParticipantType:Sex +      ParticipantType:Age + SegID:Sex + SegID:Age",-14236.394907806
+"PVE1 ~ ParticipantType + SegID + Sex + Age + ParticipantType:Age +      SegID:Sex + SegID:Age + Sex:Age",-14233.100707062
+"PVE1 ~ ParticipantType + SegID + Sex + Age + ParticipantType:Sex +      ParticipantType:Age + SegID:Sex + SegID:Age + Sex:Age",-14232.2950194865
+"PVE1 ~ ParticipantType + SegID + Age + ParticipantType:SegID +      SegID:Age",-14053.44779307
+"PVE1 ~ ParticipantType + SegID + Sex + Age + ParticipantType:SegID +      SegID:Age",-14049.0118869575
+"PVE1 ~ ParticipantType + SegID + Age + ParticipantType:SegID +      ParticipantType:Age + SegID:Age",-14041.258336676
+"PVE1 ~ ParticipantType + SegID + Sex + Age + ParticipantType:SegID +      ParticipantType:Sex + SegID:Age",-14040.9917552948
+"PVE1 ~ ParticipantType + SegID + Sex + Age + ParticipantType:SegID +      SegID:Age + Sex:Age",-14039.295520413
+"PVE1 ~ ParticipantType + SegID + Sex + Age + ParticipantType:SegID +      ParticipantType:Age + SegID:Age",-14035.6231867881
+"PVE1 ~ ParticipantType + SegID + Sex + Age + ParticipantType:SegID +      ParticipantType:Sex + SegID:Age + Sex:Age",-14034.0634497965
+"PVE1 ~ ParticipantType + SegID + Sex + Age + ParticipantType:SegID +      ParticipantType:Sex + ParticipantType:Age + SegID:Age",-14028.721485594
+"PVE1 ~ ParticipantType + SegID + Sex + Age + ParticipantType:SegID +      ParticipantType:Age + SegID:Age + Sex:Age",-14025.3598872436
+"PVE1 ~ ParticipantType + SegID + Sex + Age + ParticipantType:SegID +      ParticipantType:Sex + ParticipantType:Age + SegID:Age + Sex:Age",-14024.5980733831
+"PVE1 ~ ParticipantType + SegID + Sex + Age + ParticipantType:SegID +      SegID:Sex + SegID:Age",-13596.6417591206
+"PVE1 ~ ParticipantType + SegID + Sex + Age + ParticipantType:SegID +      ParticipantType:Sex + SegID:Sex + SegID:Age",-13588.6146853951
+"PVE1 ~ ParticipantType + SegID + Sex + Age + ParticipantType:SegID +      SegID:Sex + SegID:Age + Sex:Age",-13586.9860903486
+"PVE1 ~ ParticipantType + SegID + Sex + Age + ParticipantType:SegID +      ParticipantType:Age + SegID:Sex + SegID:Age",-13583.2811259003
+"PVE1 ~ ParticipantType + SegID + Sex + Age + ParticipantType:SegID +      ParticipantType:Sex + SegID:Sex + SegID:Age + Sex:Age",-13581.6932773752
+"PVE1 ~ ParticipantType + SegID + Sex + Age + ParticipantType:SegID +      ParticipantType:Sex + ParticipantType:Age + SegID:Sex + SegID:Age",-13576.3487389772
+"PVE1 ~ ParticipantType + SegID + Sex + Age + ParticipantType:SegID +      ParticipantType:Age + SegID:Sex + SegID:Age + Sex:Age",-13573.0707363714
+"PVE1 ~ ParticipantType + SegID + Sex + Age + ParticipantType:SegID +      ParticipantType:Sex + ParticipantType:Age + SegID:Sex + SegID:Age +      Sex:Age",-13572.2384768362
+"PVE1 ~ Age",-4683.19532647345
+"PVE1 ~ Sex + Age",-4678.42290660684
+"PVE1 ~ ParticipantType + Age",-4673.84120727821
+"PVE1 ~ ParticipantType + Sex + Age",-4669.00595208951
+"PVE1 ~ Sex + Age + Sex:Age",-4668.25444738798
+"PVE1 ~ ParticipantType",-4666.01802312924
+"PVE1 ~ Sex",-4664.96539229798
+"PVE1 ~ ParticipantType + Sex",-4661.93809646662
+"PVE1 ~ ParticipantType + Sex + Age + ParticipantType:Sex",-4661.12916383934
+"PVE1 ~ ParticipantType + Age + ParticipantType:Age",-4660.97173963879
+"PVE1 ~ ParticipantType + Sex + Age + Sex:Age",-4658.90341727252
+"PVE1 ~ ParticipantType + Sex + Age + ParticipantType:Age",-4655.16154757024
+"PVE1 ~ ParticipantType + Sex + Age + ParticipantType:Sex + Sex:Age",-4654.6427482367
+"PVE1 ~ ParticipantType + Sex + ParticipantType:Sex",-4654.4065342473
+"PVE1 ~ ParticipantType + Sex + Age + ParticipantType:Sex + ParticipantType:Age",-4648.59406008135
+"PVE1 ~ ParticipantType + Sex + Age + ParticipantType:Sex + ParticipantType:Age +      Sex:Age",-4644.76540866604
+"PVE1 ~ ParticipantType + Sex + Age + ParticipantType:Age + Sex:Age",-4644.62059767914
