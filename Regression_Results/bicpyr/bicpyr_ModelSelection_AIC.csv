@@ -1,0 +1,113 @@
+"Model","AIC"
+"log10(BicPyr) ~ SegID",-6487.73490286553
+"log10(BicPyr) ~ ParticipantType + SegID",-6485.14800635694
+"log10(BicPyr) ~ SegID + Sex",-6482.35152454076
+"log10(BicPyr) ~ ParticipantType + SegID + Age",-6481.24894932147
+"log10(BicPyr) ~ ParticipantType + SegID + Sex",-6480.38263809199
+"log10(BicPyr) ~ ParticipantType + SegID + Sex + ParticipantType:Sex",-6479.03121200318
+"log10(BicPyr) ~ ParticipantType + SegID + Sex + Age",-6477.82598178371
+"log10(BicPyr) ~ SegID + Age",-6477.21257836461
+"log10(BicPyr) ~ ParticipantType + SegID + Sex + Age + ParticipantType:Sex",-6475.12402623813
+"log10(BicPyr) ~ SegID + Sex + Age",-6471.96689315813
+"log10(BicPyr) ~ ParticipantType + SegID + Age + ParticipantType:Age",-6470.62611314244
+"log10(BicPyr) ~ ParticipantType + SegID + Sex + Age + Sex:Age",-6468.8578956774
+"log10(BicPyr) ~ ParticipantType + SegID + Sex + Age + ParticipantType:Age",-6466.84370742503
+"log10(BicPyr) ~ ParticipantType + SegID + Sex + Age + ParticipantType:Sex +      ParticipantType:Age",-6465.99163883977
+"log10(BicPyr) ~ ParticipantType + SegID + Sex + Age + ParticipantType:Sex +      Sex:Age",-6464.83881860424
+"log10(BicPyr) ~ SegID + Sex + Age + Sex:Age",-6463.76791387189
+"log10(BicPyr) ~ ParticipantType + SegID + Sex + Age + ParticipantType:Age +      Sex:Age",-6458.04266994827
+"log10(BicPyr) ~ ParticipantType + SegID + Sex + Age + ParticipantType:Sex +      ParticipantType:Age + Sex:Age",-6455.16694786182
+"log10(BicPyr) ~ ParticipantType + SegID + ParticipantType:SegID",-6057.83970067168
+"log10(BicPyr) ~ ParticipantType + SegID + Age + ParticipantType:SegID",-6053.9448268079
+"log10(BicPyr) ~ ParticipantType + SegID + Sex + ParticipantType:SegID",-6053.06236523052
+"log10(BicPyr) ~ ParticipantType + SegID + Sex + ParticipantType:SegID +      ParticipantType:Sex",-6051.74568126783
+"log10(BicPyr) ~ ParticipantType + SegID + Sex + Age + ParticipantType:SegID",-6050.50331155011
+"log10(BicPyr) ~ ParticipantType + SegID + Sex + Age + ParticipantType:SegID +      ParticipantType:Sex",-6047.83121639287
+"log10(BicPyr) ~ ParticipantType + SegID + Age + ParticipantType:SegID +      ParticipantType:Age",-6043.31556731667
+"log10(BicPyr) ~ ParticipantType + SegID + Sex + Age + ParticipantType:SegID +      Sex:Age",-6041.55521652029
+"log10(BicPyr) ~ ParticipantType + SegID + Sex + Age + ParticipantType:SegID +      ParticipantType:Age",-6039.51936907904
+"log10(BicPyr) ~ ParticipantType + SegID + Sex + Age + ParticipantType:SegID +      ParticipantType:Sex + ParticipantType:Age",-6038.7045438525
+"log10(BicPyr) ~ ParticipantType + SegID + Sex + Age + ParticipantType:SegID +      ParticipantType:Sex + Sex:Age",-6037.54707364865
+"log10(BicPyr) ~ ParticipantType + SegID + Sex + Age + ParticipantType:SegID +      ParticipantType:Age + Sex:Age",-6030.73665093078
+"log10(BicPyr) ~ ParticipantType + SegID + Sex + Age + ParticipantType:SegID +      ParticipantType:Sex + ParticipantType:Age + Sex:Age",-6027.87991495979
+"log10(BicPyr) ~ SegID + Sex + SegID:Sex",-5972.85577767939
+"log10(BicPyr) ~ ParticipantType + SegID + Sex + SegID:Sex",-5970.90510603002
+"log10(BicPyr) ~ ParticipantType + SegID + Sex + ParticipantType:Sex +      SegID:Sex",-5969.54336391902
+"log10(BicPyr) ~ ParticipantType + SegID + Sex + Age + SegID:Sex",-5968.34755118821
+"log10(BicPyr) ~ ParticipantType + SegID + Sex + Age + ParticipantType:Sex +      SegID:Sex",-5965.63683300119
+"log10(BicPyr) ~ SegID + Sex + Age + SegID:Sex",-5962.46175831086
+"log10(BicPyr) ~ ParticipantType + SegID + Sex + Age + SegID:Sex +      Sex:Age",-5959.37383263382
+"log10(BicPyr) ~ ParticipantType + SegID + Sex + Age + ParticipantType:Age +      SegID:Sex",-5957.36631169414
+"log10(BicPyr) ~ ParticipantType + SegID + Sex + Age + ParticipantType:Sex +      ParticipantType:Age + SegID:Sex",-5956.5052282081
+"log10(BicPyr) ~ ParticipantType + SegID + Sex + Age + ParticipantType:Sex +      SegID:Sex + Sex:Age",-5955.35153869565
+"log10(BicPyr) ~ SegID + Sex + Age + SegID:Sex + Sex:Age",-5954.25742955985
+"log10(BicPyr) ~ ParticipantType + SegID + Sex + Age + ParticipantType:Age +      SegID:Sex + Sex:Age",-5948.56052027778
+"log10(BicPyr) ~ ParticipantType + SegID + Sex + Age + ParticipantType:Sex +      ParticipantType:Age + SegID:Sex + Sex:Age",-5945.68028160663
+"log10(BicPyr) ~ ParticipantType + SegID + Sex + ParticipantType:SegID +      SegID:Sex",-5539.60420140278
+"log10(BicPyr) ~ ParticipantType + SegID + Sex + ParticipantType:SegID +      ParticipantType:Sex + SegID:Sex",-5538.27433993533
+"log10(BicPyr) ~ ParticipantType + SegID + Sex + Age + ParticipantType:SegID +      SegID:Sex",-5537.0435570463
+"log10(BicPyr) ~ ParticipantType + SegID + Sex + Age + ParticipantType:SegID +      ParticipantType:Sex + SegID:Sex",-5534.36028130264
+"log10(BicPyr) ~ ParticipantType + SegID + Sex + Age + ParticipantType:SegID +      SegID:Sex + Sex:Age",-5528.08793600319
+"log10(BicPyr) ~ ParticipantType + SegID + Sex + Age + ParticipantType:SegID +      ParticipantType:Age + SegID:Sex",-5526.06091261257
+"log10(BicPyr) ~ ParticipantType + SegID + Sex + Age + ParticipantType:SegID +      ParticipantType:Sex + ParticipantType:Age + SegID:Sex",-5525.234332784
+"log10(BicPyr) ~ ParticipantType + SegID + Sex + Age + ParticipantType:SegID +      ParticipantType:Sex + SegID:Sex + Sex:Age",-5524.0757706075
+"log10(BicPyr) ~ ParticipantType + SegID + Sex + Age + ParticipantType:SegID +      ParticipantType:Age + SegID:Sex + Sex:Age",-5517.27172853996
+"log10(BicPyr) ~ ParticipantType + SegID + Sex + Age + ParticipantType:SegID +      ParticipantType:Sex + ParticipantType:Age + SegID:Sex + Sex:Age",-5514.40923264472
+"log10(BicPyr) ~ ParticipantType + SegID + Age + SegID:Age",-5437.94946864889
+"log10(BicPyr) ~ ParticipantType + SegID + Sex + Age + SegID:Age",-5434.51929960663
+"log10(BicPyr) ~ SegID + Age + SegID:Age",-5433.93905270318
+"log10(BicPyr) ~ ParticipantType + SegID + Sex + Age + ParticipantType:Sex +      SegID:Age",-5431.82992814561
+"log10(BicPyr) ~ SegID + Sex + Age + SegID:Age",-5428.69119135939
+"log10(BicPyr) ~ ParticipantType + SegID + Age + ParticipantType:Age +      SegID:Age",-5427.3224058397
+"log10(BicPyr) ~ ParticipantType + SegID + Sex + Age + SegID:Age +      Sex:Age",-5425.55939895706
+"log10(BicPyr) ~ ParticipantType + SegID + Sex + Age + ParticipantType:Age +      SegID:Age",-5423.53541746434
+"log10(BicPyr) ~ ParticipantType + SegID + Sex + Age + ParticipantType:Sex +      ParticipantType:Age + SegID:Age",-5422.69666333061
+"log10(BicPyr) ~ ParticipantType + SegID + Sex + Age + ParticipantType:Sex +      SegID:Age + Sex:Age",-5421.54479104788
+"log10(BicPyr) ~ SegID + Sex + Age + SegID:Age + Sex:Age",-5420.50006113876
+"log10(BicPyr) ~ ParticipantType + SegID + Sex + Age + ParticipantType:Age +      SegID:Age + Sex:Age",-5414.7413556328
+"log10(BicPyr) ~ ParticipantType + SegID + Sex + Age + ParticipantType:Sex +      ParticipantType:Age + SegID:Age + Sex:Age",-5411.87217325213
+"log10(BicPyr) ~ ParticipantType + SegID + Age + ParticipantType:SegID +      SegID:Age",-5017.53099333438
+"log10(BicPyr) ~ ParticipantType + SegID + Sex + Age + ParticipantType:SegID +      SegID:Age",-5014.08523007311
+"log10(BicPyr) ~ ParticipantType + SegID + Sex + Age + ParticipantType:SegID +      ParticipantType:Sex + SegID:Age",-5011.42148430451
+"log10(BicPyr) ~ ParticipantType + SegID + Age + ParticipantType:SegID +      ParticipantType:Age + SegID:Age",-5006.89717928155
+"log10(BicPyr) ~ ParticipantType + SegID + Sex + Age + ParticipantType:SegID +      SegID:Age + Sex:Age",-5005.14155315182
+"log10(BicPyr) ~ ParticipantType + SegID + Sex + Age + ParticipantType:SegID +      ParticipantType:Age + SegID:Age",-5003.09926158077
+"log10(BicPyr) ~ ParticipantType + SegID + Sex + Age + ParticipantType:SegID +      ParticipantType:Sex + ParticipantType:Age + SegID:Age",-5002.29014403443
+"log10(BicPyr) ~ ParticipantType + SegID + Sex + Age + ParticipantType:SegID +      ParticipantType:Sex + SegID:Age + Sex:Age",-5001.1364505049
+"log10(BicPyr) ~ ParticipantType + SegID + Sex + Age + ParticipantType:SegID +      ParticipantType:Age + SegID:Age + Sex:Age",-4994.31951669007
+"log10(BicPyr) ~ ParticipantType + SegID + Sex + Age + ParticipantType:SegID +      ParticipantType:Sex + ParticipantType:Age + SegID:Age + Sex:Age",-4991.46552169392
+"log10(BicPyr) ~ ParticipantType + SegID + Sex + Age + SegID:Sex +      SegID:Age",-4923.91157215296
+"log10(BicPyr) ~ ParticipantType + SegID + Sex + Age + ParticipantType:Sex +      SegID:Sex + SegID:Age",-4921.21314700037
+"log10(BicPyr) ~ SegID + Sex + Age + SegID:Sex + SegID:Age",-4918.05665025175
+"log10(BicPyr) ~ ParticipantType + SegID + Sex + Age + SegID:Sex +      SegID:Age + Sex:Age",-4914.9458964808
+"log10(BicPyr) ~ ParticipantType + SegID + Sex + Age + ParticipantType:Age +      SegID:Sex + SegID:Age",-4912.92877226072
+"log10(BicPyr) ~ ParticipantType + SegID + Sex + Age + ParticipantType:Sex +      ParticipantType:Age + SegID:Sex + SegID:Age",-4912.08081350633
+"log10(BicPyr) ~ ParticipantType + SegID + Sex + Age + ParticipantType:Sex +      SegID:Sex + SegID:Age + Sex:Age",-4910.92794885399
+"log10(BicPyr) ~ SegID + Sex + Age + SegID:Sex + SegID:Age + Sex:Age",-4909.86002747752
+"log10(BicPyr) ~ ParticipantType + SegID + Sex + Age + ParticipantType:Age +      SegID:Sex + SegID:Age + Sex:Age",-4904.12986208954
+"log10(BicPyr) ~ ParticipantType + SegID + Sex + Age + ParticipantType:Sex +      ParticipantType:Age + SegID:Sex + SegID:Age + Sex:Age",-4901.25606325053
+"log10(BicPyr) ~ ParticipantType + SegID + Sex + Age + ParticipantType:SegID +      SegID:Sex + SegID:Age",-4494.41429489664
+"log10(BicPyr) ~ ParticipantType + SegID + Sex + Age + ParticipantType:SegID +      ParticipantType:Sex + SegID:Sex + SegID:Age",-4491.73852779434
+"log10(BicPyr) ~ ParticipantType + SegID + Sex + Age + ParticipantType:SegID +      SegID:Sex + SegID:Age + Sex:Age",-4485.46286280206
+"log10(BicPyr) ~ ParticipantType + SegID + Sex + Age + ParticipantType:SegID +      ParticipantType:Age + SegID:Sex + SegID:Age",-4483.42975856912
+"log10(BicPyr) ~ ParticipantType + SegID + Sex + Age + ParticipantType:SegID +      ParticipantType:Sex + ParticipantType:Age + SegID:Sex + SegID:Age",-4482.60823689944
+"log10(BicPyr) ~ ParticipantType + SegID + Sex + Age + ParticipantType:SegID +      ParticipantType:Sex + SegID:Sex + SegID:Age + Sex:Age",-4481.45336689578
+"log10(BicPyr) ~ ParticipantType + SegID + Sex + Age + ParticipantType:SegID +      ParticipantType:Age + SegID:Sex + SegID:Age + Sex:Age",-4474.64344772259
+"log10(BicPyr) ~ ParticipantType + SegID + Sex + Age + ParticipantType:SegID +      ParticipantType:Sex + ParticipantType:Age + SegID:Sex + SegID:Age +      Sex:Age",-4471.78328743293
+"log10(BicPyr) ~ ParticipantType",-4283.81805052029
+"log10(BicPyr) ~ Sex",-4281.0448084797
+"log10(BicPyr) ~ ParticipantType + Age",-4279.9032508632
+"log10(BicPyr) ~ ParticipantType + Sex",-4279.08093345915
+"log10(BicPyr) ~ ParticipantType + Sex + ParticipantType:Sex",-4277.6405204493
+"log10(BicPyr) ~ ParticipantType + Sex + Age",-4276.52166725273
+"log10(BicPyr) ~ Age",-4275.87929536802
+"log10(BicPyr) ~ ParticipantType + Sex + Age + ParticipantType:Sex",-4273.74481557573
+"log10(BicPyr) ~ Sex + Age",-4270.65734919673
+"log10(BicPyr) ~ ParticipantType + Age + ParticipantType:Age",-4269.28753402491
+"log10(BicPyr) ~ ParticipantType + Sex + Age + Sex:Age",-4267.49242937943
+"log10(BicPyr) ~ ParticipantType + Sex + Age + ParticipantType:Age",-4265.54117773254
+"log10(BicPyr) ~ ParticipantType + Sex + Age + ParticipantType:Sex +      ParticipantType:Age",-4264.57231464933
+"log10(BicPyr) ~ ParticipantType + Sex + Age + ParticipantType:Sex +      Sex:Age",-4263.45034765366
+"log10(BicPyr) ~ Sex + Age + Sex:Age",-4262.39789678351
+"log10(BicPyr) ~ ParticipantType + Sex + Age + ParticipantType:Age +      Sex:Age",-4256.67869115457
+"log10(BicPyr) ~ ParticipantType + Sex + Age + ParticipantType:Sex +      ParticipantType:Age + Sex:Age",-4253.74760170859
