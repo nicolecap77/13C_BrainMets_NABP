@@ -31,7 +31,7 @@ A directory called Regression_Results stores the results of model selection, fin
 
 - DependentVariable_MELR_EMM.csv reports the estimated marginal mean value of the dependent variable between patients and controls after accounting for other independent variables using the mixed effects linear regression chosen in DependentVariable_MELR_Summary.csv. 'emmean' columns reflect dependent variables that have been log transformed while 'response' columns reflect dependent variables that have not been transformed.
 
--  DependentVariable_MELR_EMM_t-test.csv reports the estimated difference in dependent variable between patients and controls in the emmean or response column. 
+-  DependentVariable_MELR_EMM_t-test.csv reports the estimated difference in dependent variable between patients and controls in the emmean or response column. 'ratio' columns report ratios between patients and controls (for log transformed dependent variables) while 'estimate' columns report differences (for non-transformed dependent variables).
 
 -  DependentVariable_lobes_tukey.csv reports tukey HSD tests between estimated marginal mean of dependent variable grouped by brain lobe.
 
