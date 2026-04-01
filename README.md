@@ -24,9 +24,9 @@ Two custom functions were made and are required to run Main_Script.R
 
 ##### A Note on Notation:
 - SegID = segmentation ID = SLANT brain region ID number
-- PVE0 = partial volume estimate 0 = cerebral spinal fluid density
+- PVE0 = partial volume estimate 0 = cerebral spinal fluid PVE
 - PVE0_Vol = volume of cerebral spinal fluid
-- PVE1 = partial volume estimate 1 = grey matter density
+- PVE1 = partial volume estimate 1 = grey matter PVE
 - PVE1_Vol = grey matter volume
-- PVE2 = partial volume estimate 2 = white matter density
+- PVE2 = partial volume estimate 2 = white matter PVE
 - PVE2_Vol = white matter volume
