@@ -36,6 +36,9 @@ A directory called Regression_Results stores the results of model selection, fin
 -  DependentVariable_lobes_tukey.csv reports tukey HSD tests between estimated marginal mean of dependent variable grouped by brain lobe.
 
 #### A Note on Notation:
+Figures are provided in .tiff and .eps format
+
+#### A Note on Notation:
 - SegID = segmentation ID = SLANT brain region ID number
 - PVE0 = partial volume estimate 0 = cerebral spinal fluid PVE
 - PVE0_Vol = volume of cerebral spinal fluid
