@@ -6,6 +6,8 @@
 ##### The data used as inputs to Main_Script.R are provided in .csv files. 
 ##### - BrainMetabolismMasterDataSheet.csv includes all average 13C signals, 13C metabolite ratios, grey matter density and volume, white matter density and volume, and brain region volume for each SLANT brain reigon (refered to as segmentation ID or SegID for short). 
 ##### - GTVInvolvedBrainRegions_Patient.csv reports the brain regions (SegID) that interected with gross tumor volume per patient participant.
+##### - SegID_Volumes.csv reports the volume of each SLANT brain region.
+##### - SegID_WMGMid.csv reports the 
 
 ##### The Main_Script.R requires all .csv files
 
