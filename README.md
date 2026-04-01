@@ -22,6 +22,19 @@ Two custom functions were made and are required to run Main_Script.R
 
 - pval_to_asterisk.R assigns different p-value levels to different number of asterisks for plots.
 
+#### Regression Results
+A directory called Regression_Results stores the results of model selection, final model results, estimates marginal means and post hoc tests (where applicable) for each dependent variable explored in the manuscript. There are 4-5 .csv files in each of the directories according.
+
+- DependentVariable_ModelSelection_AIC.csv reports each model tested in the mixed effects linear regression model selection process, with AIC reported for each model. Models are sorted in ascending AIC order.
+  
+- DependentVariable_MELR_Summary.csv reports the mixed effects linear regression (MELR) results of the optimal model selected by in the model selection process.
+
+- DependentVariable_MELR_EMM.csv reports the estimated marginal means from the mixed effects linear regression chosen in DependentVariable_MELR_Summary.csv. It reports the estimated different in dependent variable between patients and controls in the emmean or response column. emmean columns reflect dependent variables that have been log transformed while response columns reflect dependent variables that have not been transformed.
+
+-  DependentVariable_MELR_EMM_t-test.csv reports t-tests to assess the difference in dependent viarables between patients and controls in each brain region.
+
+-  DependentVariable_lobes_tukey.csv
+
 #### A Note on Notation:
 - SegID = segmentation ID = SLANT brain region ID number
 - PVE0 = partial volume estimate 0 = cerebral spinal fluid PVE
