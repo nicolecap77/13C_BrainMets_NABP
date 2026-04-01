@@ -5,7 +5,7 @@
 The Main_Script.R file should be run with R. It is used to run the mixed effects linear regression model selection and final models reported in the manuscript. This R script is also used to generate the figures in Figure 2, 3 and 5 (files of which are saved in their respective directories in this repository).
 
 ##### Input Data
-The data used as inputs to Main_Script.R are provided in .csv files and are described below. 
+The data used as inputs to Main_Script.R are provided in .csv files and are described below. Please put all of these csv files and the custom functions (See Custom Functions section next) in the same directory as Main_Script.R
 
 - BrainMetabolismMasterDataSheet.csv includes all average 13C signals, 13C metabolite ratios, grey matter density and volume, white matter density and volume, and brain region volume for each SLANT brain reigon (refered to as segmentation ID or SegID for short). Please note that age and sex data are removed from this dataset and therefore, the scripts for this work cannot be run unless written agreements between the corresponding author and requesting author Research Ethics Boards / Institutional Review Boards are in place.
 
@@ -15,9 +15,17 @@ The data used as inputs to Main_Script.R are provided in .csv files and are desc
 
 - SegID_WMGMid.csv reports two descriptors for each brain region. First is whether the brain region is grey matter, white matter, both grey and white matter or ventricle. The second defines which lobe the brain region is apart of (frontal, parietal, occipital, temporal, insular, subcortex or white matter).
 
+##### Custom Functions
+Two custom functions were made and are required to run Main_Script.R
 
-##### Notation:
+- generate_regression_formulas.R makes all possible regression formula combinations up to and including two-way interaction terms, given the dependent and independent variables as input.
+
+- pval_to_asterisk.R assigns different p-value levels to different number of asterisks for plots.
+
+##### A Note on Notation:
 - SegID = segmentation ID = SLANT brain region ID number
+- PVE0 = partial volume estimate 0 = cerebral spinal fluid density
+- PVE0_Vol = volume of cerebral spinal fluid
 - PVE1 = partial volume estimate 1 = grey matter density
 - PVE1_Vol = grey matter volume
 - PVE2 = partial volume estimate 2 = white matter density
